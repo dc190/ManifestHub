@@ -1,0 +1,9 @@
+--appid=1371980
+--depots
+addappid(1371981)
+addappid(1371982)
+addappid(1371985)
+--noupdate
+setManifestid(1371981,"510898126581031226")
+setManifestid(1371982,"8466480832192743958")
+setManifestid(1371985,"5949813554702470180")
