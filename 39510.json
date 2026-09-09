@@ -1,0 +1,41 @@
+{
+  "appid": 39510,
+  "depots": {
+    "39511": {
+      "manifestid": "5059568151746222878",
+      "has_key": false
+    },
+    "39512": {
+      "manifestid": "998169341576372951",
+      "has_key": false
+    },
+    "39513": {
+      "manifestid": "5289397696824708902",
+      "has_key": false
+    },
+    "39514": {
+      "manifestid": "3890767973784522915",
+      "has_key": false
+    },
+    "39515": {
+      "manifestid": "5402387635264061735",
+      "has_key": false
+    },
+    "39516": {
+      "manifestid": "950328956863520329",
+      "has_key": false
+    },
+    "39517": {
+      "manifestid": "7226926567864185080",
+      "has_key": false
+    },
+    "39518": {
+      "manifestid": "6789470951450256759",
+      "has_key": false
+    },
+    "39519": {
+      "manifestid": "5067685749113517672",
+      "has_key": false
+    }
+  }
+}
