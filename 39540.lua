@@ -1,0 +1,17 @@
+--appid=39540
+--depots
+addappid(39541)
+addappid(39542)
+addappid(39543)
+addappid(39544)
+addappid(39545)
+addappid(39546)
+addappid(39547)
+--noupdate
+setManifestid(39541,"7173379111685960043")
+setManifestid(39542,"3243459590242514319")
+setManifestid(39543,"1952057455393326528")
+setManifestid(39544,"4462403598829903087")
+setManifestid(39545,"926214830583398781")
+setManifestid(39546,"2557500814714165907")
+setManifestid(39547,"3477850698542856722")
