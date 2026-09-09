@@ -1,0 +1,11 @@
+--appid=261550
+--depots
+addappid(2240111)
+addappid(261551)
+addappid(261552)
+addappid(2927200)
+--noupdate
+setManifestid(2240111,"6194812840481947105")
+setManifestid(261551,"2130492496439118726")
+setManifestid(261552,"652956066029874796")
+setManifestid(2927200,"4993282495083223470")
