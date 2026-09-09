@@ -1,6 +1,7 @@
 --appid=2300320
 --depots
 addappid(2300321)
+addappid(2300323)
 addappid(2981090)
 addappid(2981110)
 addappid(3450870)
@@ -14,6 +15,7 @@ addappid(4348800)
 addappid(4651570)
 --noupdate
 setManifestid(2300321,"395709586739939304")
+setManifestid(2300323,"1550107122794757569")
 setManifestid(2981090,"4030937932501187334")
 setManifestid(2981110,"2426592928577282527")
 setManifestid(3450870,"8018742123442168696")
