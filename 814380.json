@@ -1,0 +1,29 @@
+{
+  "appid": 814380,
+  "depots": {
+    "814381": {
+      "manifestid": "7598923580425802222",
+      "has_key": false
+    },
+    "814382": {
+      "manifestid": "8495754623934990551",
+      "has_key": false
+    },
+    "814383": {
+      "manifestid": "1996592192490629382",
+      "has_key": false
+    },
+    "814384": {
+      "manifestid": "147690030473406272",
+      "has_key": false
+    },
+    "814385": {
+      "manifestid": "1613271962634429538",
+      "has_key": false
+    },
+    "1039230": {
+      "manifestid": "1077830899885356469",
+      "has_key": false
+    }
+  }
+}
