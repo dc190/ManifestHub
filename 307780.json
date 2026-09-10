@@ -1,0 +1,93 @@
+{
+  "appid": 307780,
+  "depots": {
+    "307781": {
+      "manifestid": "5624529206982116192",
+      "has_key": false
+    },
+    "307782": {
+      "manifestid": "6159674384328955878",
+      "has_key": false
+    },
+    "307783": {
+      "manifestid": "1816684884894923223",
+      "has_key": false
+    },
+    "307784": {
+      "manifestid": "3401281719433326658",
+      "has_key": false
+    },
+    "347150": {
+      "manifestid": "4338267348866793457",
+      "has_key": false
+    },
+    "347152": {
+      "manifestid": "3968766527137329761",
+      "has_key": false
+    },
+    "347153": {
+      "manifestid": "8805752485552318169",
+      "has_key": false
+    },
+    "347154": {
+      "manifestid": "2367601758245063172",
+      "has_key": false
+    },
+    "347155": {
+      "manifestid": "6694947482485861674",
+      "has_key": false
+    },
+    "347890": {
+      "manifestid": "9019825025781604845",
+      "has_key": false
+    },
+    "351550": {
+      "manifestid": "8357497103448333710",
+      "has_key": false
+    },
+    "351551": {
+      "manifestid": "4993234369582644430",
+      "has_key": false
+    },
+    "351552": {
+      "manifestid": "443867069664371166",
+      "has_key": false
+    },
+    "351553": {
+      "manifestid": "8998990461481944590",
+      "has_key": false
+    },
+    "351554": {
+      "manifestid": "4748821729091936932",
+      "has_key": false
+    },
+    "351555": {
+      "manifestid": "6960533188296214475",
+      "has_key": false
+    },
+    "351556": {
+      "manifestid": "9098838434890469410",
+      "has_key": false
+    },
+    "351558": {
+      "manifestid": "7593285350191767262",
+      "has_key": false
+    },
+    "354413": {
+      "manifestid": "3458388745384864636",
+      "has_key": false
+    },
+    "354425": {
+      "manifestid": "7342610577311621078",
+      "has_key": false
+    },
+    "354426": {
+      "manifestid": "7125000413805663899",
+      "has_key": false
+    },
+    "354427": {
+      "manifestid": "7423120599132382125",
+      "has_key": false
+    }
+  }
+}
