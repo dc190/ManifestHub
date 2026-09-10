@@ -1,0 +1,17 @@
+--appid=34330
+--depots
+addappid(201271)
+addappid(201278)
+addappid(34331)
+addappid(34332)
+addappid(34333)
+addappid(34334)
+addappid(372531)
+--noupdate
+setManifestid(201271,"3803329044277082064")
+setManifestid(201278,"1545335483322603358")
+setManifestid(34331,"190308019507430064")
+setManifestid(34332,"5881356124441497033")
+setManifestid(34333,"1972056557494830740")
+setManifestid(34334,"1890103565405039456")
+setManifestid(372531,"1128077100884847891")
