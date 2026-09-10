@@ -1,5 +1,9 @@
 --appid=3929470
 --depots
 addappid(3929471)
+addappid(4961401)
+addappid(4961470)
 --noupdate
 setManifestid(3929471,"566029648959684511")
+setManifestid(4961401,"1192185458915826708")
+setManifestid(4961470,"2969409151287249952")
