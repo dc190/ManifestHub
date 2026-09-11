@@ -1,0 +1,69 @@
+{
+  "appid": 594570,
+  "depots": {
+    "372531": {
+      "manifestid": "1128077100884847891",
+      "has_key": false
+    },
+    "372533": {
+      "manifestid": "5678300758159441741",
+      "has_key": false
+    },
+    "594571": {
+      "manifestid": "3118540634306066286",
+      "has_key": false
+    },
+    "594572": {
+      "manifestid": "5136596063208431994",
+      "has_key": false
+    },
+    "594590": {
+      "manifestid": "7163359287625511573",
+      "has_key": false
+    },
+    "594591": {
+      "manifestid": "2974146650303045528",
+      "has_key": false
+    },
+    "594592": {
+      "manifestid": "4871266084550441708",
+      "has_key": false
+    },
+    "594593": {
+      "manifestid": "3382257922075203738",
+      "has_key": false
+    },
+    "594594": {
+      "manifestid": "715652375034881947",
+      "has_key": false
+    },
+    "594597": {
+      "manifestid": "6326090585399089172",
+      "has_key": false
+    },
+    "594598": {
+      "manifestid": "1110252603145927208",
+      "has_key": false
+    },
+    "594600": {
+      "manifestid": "2819893851616154301",
+      "has_key": false
+    },
+    "594601": {
+      "manifestid": "7936699279323443651",
+      "has_key": false
+    },
+    "594608": {
+      "manifestid": "5318795897960945484",
+      "has_key": false
+    },
+    "617810": {
+      "manifestid": "652818519393742084",
+      "has_key": false
+    },
+    "617811": {
+      "manifestid": "3325703992368297547",
+      "has_key": false
+    }
+  }
+}
