@@ -1,0 +1,229 @@
+{
+  "appid": 872410,
+  "depots": {
+    "872411": {
+      "manifestid": "247060224827963761",
+      "has_key": false
+    },
+    "872412": {
+      "manifestid": "1821258790151557907",
+      "has_key": false
+    },
+    "872413": {
+      "manifestid": "2708382053934172341",
+      "has_key": false
+    },
+    "872414": {
+      "manifestid": "8553357306661913417",
+      "has_key": false
+    },
+    "1198830": {
+      "manifestid": "4537773435072559451",
+      "has_key": false
+    },
+    "1198831": {
+      "manifestid": "4773667971732112719",
+      "has_key": false
+    },
+    "1198832": {
+      "manifestid": "4729672140666924474",
+      "has_key": false
+    },
+    "1198834": {
+      "manifestid": "6577578762064609762",
+      "has_key": false
+    },
+    "1198835": {
+      "manifestid": "4073196032626802279",
+      "has_key": false
+    },
+    "1198836": {
+      "manifestid": "5276450411441047934",
+      "has_key": false
+    },
+    "1198837": {
+      "manifestid": "5549346714551848346",
+      "has_key": false
+    },
+    "1198839": {
+      "manifestid": "9106118020399216637",
+      "has_key": false
+    },
+    "1198840": {
+      "manifestid": "5183827118423278820",
+      "has_key": false
+    },
+    "1198841": {
+      "manifestid": "64168457231799406",
+      "has_key": false
+    },
+    "1198843": {
+      "manifestid": "5967214586019959915",
+      "has_key": false
+    },
+    "1198844": {
+      "manifestid": "5929110711180847402",
+      "has_key": false
+    },
+    "1198845": {
+      "manifestid": "5535988802195645348",
+      "has_key": false
+    },
+    "1198846": {
+      "manifestid": "995050871963497002",
+      "has_key": false
+    },
+    "1198847": {
+      "manifestid": "1175004702111808016",
+      "has_key": false
+    },
+    "1198848": {
+      "manifestid": "196977068528133134",
+      "has_key": false
+    },
+    "1198849": {
+      "manifestid": "6753092835371492704",
+      "has_key": false
+    },
+    "1213610": {
+      "manifestid": "2306631369019405132",
+      "has_key": false
+    },
+    "1213611": {
+      "manifestid": "7696882174603873275",
+      "has_key": false
+    },
+    "1213612": {
+      "manifestid": "8905828104802641966",
+      "has_key": false
+    },
+    "1213613": {
+      "manifestid": "7478584307335246570",
+      "has_key": false
+    },
+    "1258150": {
+      "manifestid": "8411790377032961673",
+      "has_key": false
+    },
+    "1258151": {
+      "manifestid": "1486913277627246249",
+      "has_key": false
+    },
+    "1258152": {
+      "manifestid": "1609349454990144848",
+      "has_key": false
+    },
+    "1258154": {
+      "manifestid": "225361991569734678",
+      "has_key": false
+    },
+    "1258155": {
+      "manifestid": "3090505027647891977",
+      "has_key": false
+    },
+    "1293030": {
+      "manifestid": "8429122104998380227",
+      "has_key": false
+    },
+    "1427650": {
+      "manifestid": "6260143535053874155",
+      "has_key": false
+    },
+    "1431480": {
+      "manifestid": "537728245166833856",
+      "has_key": false
+    },
+    "1431481": {
+      "manifestid": "807548417110382181",
+      "has_key": false
+    },
+    "1431483": {
+      "manifestid": "218718109270039859",
+      "has_key": false
+    },
+    "1431484": {
+      "manifestid": "7305709814624911096",
+      "has_key": false
+    },
+    "1431485": {
+      "manifestid": "1404895364427829799",
+      "has_key": false
+    },
+    "1431486": {
+      "manifestid": "7336033176794171761",
+      "has_key": false
+    },
+    "1431487": {
+      "manifestid": "1380717195442474747",
+      "has_key": false
+    },
+    "1431488": {
+      "manifestid": "794422081024784071",
+      "has_key": false
+    },
+    "1431489": {
+      "manifestid": "1736589144793819341",
+      "has_key": false
+    },
+    "1431490": {
+      "manifestid": "235836961760836053",
+      "has_key": false
+    },
+    "1431491": {
+      "manifestid": "7699693027733289254",
+      "has_key": false
+    },
+    "1431492": {
+      "manifestid": "93829382814809718",
+      "has_key": false
+    },
+    "1431493": {
+      "manifestid": "5005967991735548235",
+      "has_key": false
+    },
+    "1431494": {
+      "manifestid": "2677268141824279676",
+      "has_key": false
+    },
+    "1431495": {
+      "manifestid": "8737854741584879346",
+      "has_key": false
+    },
+    "1431496": {
+      "manifestid": "7305801351318220012",
+      "has_key": false
+    },
+    "1431497": {
+      "manifestid": "8423485004548809111",
+      "has_key": false
+    },
+    "1431498": {
+      "manifestid": "4590861573312572986",
+      "has_key": false
+    },
+    "1543950": {
+      "manifestid": "19626315043741332",
+      "has_key": false
+    },
+    "1638310": {
+      "manifestid": "4519985131428191727",
+      "has_key": false
+    },
+    "1638311": {
+      "manifestid": "355277098172238882",
+      "has_key": false
+    },
+    "4508240": {
+      "manifestid": "7946659053514602182",
+      "has_key": false
+    },
+    "4598950": {
+      "manifestid": "6304149487492463536",
+      "has_key": false
+    },
+    "4598960": {
+      "manifestid": "1921642133311921964",
+      "has_key": false
+    }
+  }
+}
