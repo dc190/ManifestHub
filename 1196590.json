@@ -3,31 +3,19 @@
   "depots": {
     "1196591": {
       "manifestid": "3932505801699900266",
-      "has_key": false
+      "has_key": true
     },
     "1196593": {
       "manifestid": "5460835064978089028",
-      "has_key": false
+      "has_key": true
     },
     "1456360": {
       "manifestid": "3932673717585863523",
-      "has_key": false
+      "has_key": true
     },
-    "1456362": {
-      "manifestid": "7205803887098070804",
-      "has_key": false
-    },
-    "1456363": {
-      "manifestid": "9200672067094795390",
-      "has_key": false
-    },
-    "1501751": {
-      "manifestid": "5024996214527431405",
-      "has_key": false
-    },
-    "4533491": {
-      "manifestid": "6578165872800933423",
-      "has_key": false
+    "1731080": {
+      "manifestid": "767965597380462013",
+      "has_key": true
     }
   }
 }
