@@ -1,0 +1,5 @@
+--appid=892970
+--depots
+addappid(892972,1,"10d286383a9248b6de0c8a160231b4d6332bce1da1fce424d4156329dda3ecf6")
+--noupdate
+setManifestid(892972,"8420184671320173885")
