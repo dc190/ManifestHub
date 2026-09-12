@@ -3,87 +3,11 @@
   "depots": {
     "261551": {
       "manifestid": "2130492496439118726",
-      "has_key": false
+      "has_key": true
     },
     "261552": {
       "manifestid": "652956066029874796",
-      "has_key": false
-    },
-    "2050651": {
-      "manifestid": "293145186259371865",
-      "has_key": false
-    },
-    "2050653": {
-      "manifestid": "1486653767717307085",
-      "has_key": false
-    },
-    "2109311": {
-      "manifestid": "2476102622028354069",
-      "has_key": false
-    },
-    "2109312": {
-      "manifestid": "7506742638748304084",
-      "has_key": false
-    },
-    "2109313": {
-      "manifestid": "4051934214530803209",
-      "has_key": false
-    },
-    "2109314": {
-      "manifestid": "5791805695380186020",
-      "has_key": false
-    },
-    "2109316": {
-      "manifestid": "3660849741169791736",
-      "has_key": false
-    },
-    "2109317": {
-      "manifestid": "2524887058062613558",
-      "has_key": false
-    },
-    "2197320": {
-      "manifestid": "3550619730862869173",
-      "has_key": false
-    },
-    "2197321": {
-      "manifestid": "222693115030592431",
-      "has_key": false
-    },
-    "2197322": {
-      "manifestid": "3468692957561704498",
-      "has_key": false
-    },
-    "2197323": {
-      "manifestid": "1816669983052022714",
-      "has_key": false
-    },
-    "2197324": {
-      "manifestid": "1058648903756395119",
-      "has_key": false
-    },
-    "2197325": {
-      "manifestid": "2168598182656536079",
-      "has_key": false
-    },
-    "2197326": {
-      "manifestid": "630496112153249121",
-      "has_key": false
-    },
-    "2197327": {
-      "manifestid": "6760043746706895726",
-      "has_key": false
-    },
-    "2197328": {
-      "manifestid": "2116811573730420534",
-      "has_key": false
-    },
-    "2240111": {
-      "manifestid": "6194812840481947105",
-      "has_key": false
-    },
-    "2927200": {
-      "manifestid": "4993282495083223470",
-      "has_key": false
+      "has_key": true
     }
   }
 }
