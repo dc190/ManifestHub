@@ -3,15 +3,23 @@
   "depots": {
     "976311": {
       "manifestid": "6512752024476768865",
-      "has_key": true
+      "has_key": false
     },
     "976312": {
       "manifestid": "1715536566262804393",
-      "has_key": true
+      "has_key": false
     },
     "976313": {
       "manifestid": "4245947103270175452",
-      "has_key": true
+      "has_key": false
+    },
+    "1316183": {
+      "manifestid": "2020495199252320891",
+      "has_key": false
+    },
+    "1461160": {
+      "manifestid": "5735050710340606220",
+      "has_key": false
     }
   }
 }
