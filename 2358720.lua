@@ -1,5 +1,5 @@
 --appid=2358720
 --depots
-addappid(2358721)
+addappid(2358721,1,"78d5a284965b2206de191dc4ca99d43c9caf5b5e78b47cf0c366fbbb884190d8")
 --noupdate
 setManifestid(2358721,"8329114521995004621")
