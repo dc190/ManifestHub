@@ -3,27 +3,67 @@
   "depots": {
     "372533": {
       "manifestid": "5678300758159441741",
-      "has_key": false
+      "has_key": true
     },
     "1142711": {
       "manifestid": "5218949771588546813",
-      "has_key": false
+      "has_key": true
     },
     "1142712": {
       "manifestid": "1959622576716276016",
-      "has_key": false
+      "has_key": true
+    },
+    "1142713": {
+      "manifestid": "6088472991362806035",
+      "has_key": true
+    },
+    "1142714": {
+      "manifestid": "3622264683308117676",
+      "has_key": true
+    },
+    "1142715": {
+      "manifestid": "1459637335183049178",
+      "has_key": true
+    },
+    "1142716": {
+      "manifestid": "6710079216484448409",
+      "has_key": true
+    },
+    "1142717": {
+      "manifestid": "7071982132288265381",
+      "has_key": true
+    },
+    "1142718": {
+      "manifestid": "6939909223456557190",
+      "has_key": true
+    },
+    "1142719": {
+      "manifestid": "5353395848903157963",
+      "has_key": true
+    },
+    "1143180": {
+      "manifestid": "4128327580205674160",
+      "has_key": true
+    },
+    "1143181": {
+      "manifestid": "1426222503569890400",
+      "has_key": true
+    },
+    "1143182": {
+      "manifestid": "5459469807500853556",
+      "has_key": true
+    },
+    "1143183": {
+      "manifestid": "5730481803774042745",
+      "has_key": true
     },
     "1143184": {
       "manifestid": "3461348633807822835",
-      "has_key": false
+      "has_key": true
     },
-    "1374300": {
-      "manifestid": "866517638047156002",
-      "has_key": false
-    },
-    "4533491": {
-      "manifestid": "6578165872800933423",
-      "has_key": false
+    "1143185": {
+      "manifestid": "2554965331021559023",
+      "has_key": true
     }
   }
 }
