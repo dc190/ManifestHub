@@ -1,24 +1,88 @@
 {
   "appid": 3008130,
   "depots": {
+    "3008132": {
+      "manifestid": "1815870566536345197",
+      "has_key": true
+    },
+    "3008133": {
+      "manifestid": "6044857437230330703",
+      "has_key": true
+    },
+    "3008134": {
+      "manifestid": "1787702338064217177",
+      "has_key": true
+    },
+    "3008135": {
+      "manifestid": "7660363868404633094",
+      "has_key": true
+    },
+    "3008136": {
+      "manifestid": "1201098753956099504",
+      "has_key": true
+    },
+    "3008137": {
+      "manifestid": "965404590006239293",
+      "has_key": true
+    },
+    "3008138": {
+      "manifestid": "4334113646338191203",
+      "has_key": true
+    },
+    "3008139": {
+      "manifestid": "4722956610001378161",
+      "has_key": true
+    },
+    "3061861": {
+      "manifestid": "5495857833815638276",
+      "has_key": true
+    },
+    "3061862": {
+      "manifestid": "1508396172463784844",
+      "has_key": true
+    },
+    "3061863": {
+      "manifestid": "8196123726676845138",
+      "has_key": true
+    },
+    "3061864": {
+      "manifestid": "1620402360743943651",
+      "has_key": true
+    },
+    "3061865": {
+      "manifestid": "4737904536567645461",
+      "has_key": true
+    },
+    "3061866": {
+      "manifestid": "1003081175812180771",
+      "has_key": true
+    },
+    "3061867": {
+      "manifestid": "507942733485243188",
+      "has_key": true
+    },
+    "3061868": {
+      "manifestid": "3108800588308239046",
+      "has_key": true
+    },
     "3061869": {
-      "manifestid": "324574316684545675",
+      "manifestid": "309817478819974702",
       "has_key": true
     },
     "3592041": {
-      "manifestid": "2605870998215591638",
+      "manifestid": "3262466557518633501",
       "has_key": true
     },
     "3592042": {
-      "manifestid": "7772054862312324840",
+      "manifestid": "4764296542532447629",
       "has_key": true
     },
     "3592043": {
-      "manifestid": "8591703617627218014",
+      "manifestid": "4346687060559182347",
       "has_key": true
     },
     "3592044": {
-      "manifestid": "8894426967940888346",
+      "manifestid": "1018030140177615046",
       "has_key": true
     }
   }
