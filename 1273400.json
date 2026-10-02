@@ -1,0 +1,73 @@
+{
+  "appid": 1273400,
+  "depots": {
+    "1273401": {
+      "manifestid": "3537032707906149374",
+      "has_key": false
+    },
+    "1944340": {
+      "manifestid": "322555549106022213",
+      "has_key": false
+    },
+    "1944341": {
+      "manifestid": "8807678063382063768",
+      "has_key": false
+    },
+    "2203420": {
+      "manifestid": "8739100311331388793",
+      "has_key": false
+    },
+    "2291424": {
+      "manifestid": "8453066766368453847",
+      "has_key": false
+    },
+    "2295781": {
+      "manifestid": "685349866155445181",
+      "has_key": false
+    },
+    "2295811": {
+      "manifestid": "3383914678723808175",
+      "has_key": false
+    },
+    "2295821": {
+      "manifestid": "8580441773329478911",
+      "has_key": false
+    },
+    "2322971": {
+      "manifestid": "320280581201002583",
+      "has_key": false
+    },
+    "2322981": {
+      "manifestid": "5743210225651998743",
+      "has_key": false
+    },
+    "2322991": {
+      "manifestid": "7520794540910599885",
+      "has_key": false
+    },
+    "2657381": {
+      "manifestid": "6016383179637761921",
+      "has_key": false
+    },
+    "2657391": {
+      "manifestid": "3197796519729678759",
+      "has_key": false
+    },
+    "2657401": {
+      "manifestid": "8114831874000182204",
+      "has_key": false
+    },
+    "2657411": {
+      "manifestid": "3557864438957203195",
+      "has_key": false
+    },
+    "2657421": {
+      "manifestid": "8791015684642513912",
+      "has_key": false
+    },
+    "2800781": {
+      "manifestid": "5044123825545457794",
+      "has_key": false
+    }
+  }
+}
