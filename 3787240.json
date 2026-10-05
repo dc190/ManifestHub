@@ -1,8 +1,20 @@
 {
   "appid": 3787240,
   "depots": {
+    "3357651": {
+      "manifestid": "7378614952147005398",
+      "has_key": false
+    },
+    "3357652": {
+      "manifestid": "2727486347555616762",
+      "has_key": false
+    },
     "3787241": {
       "manifestid": "745100765013791340",
+      "has_key": false
+    },
+    "3859920": {
+      "manifestid": "4731286747379700304",
       "has_key": false
     }
   }
